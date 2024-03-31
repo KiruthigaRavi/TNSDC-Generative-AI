@@ -11,7 +11,11 @@ Using numpy, we loaded these arrays into a CNN model constructed with Keras mode
 Subsequently, the data underwent splitting into training and testing sets, with callback functions utilized to save the model at each epoch's end.
 Visualization techniques, such as matplotlib, aided in providing a comprehensive overview of the data. 
 Lastly, in the detection model, we utilized CascadeClassifier and videocapture to detect faces with masks highlighted in green boxes and without masks in red.
+<div align="center">
+  <img src="https://github.com/KiruthigaRavi/TNSDC-Generative-AI/assets/104771518/5a4fcf76-ada3-48d3-8f4c-084277d6a4ca" alt="result" width="300"/>
+</div>
 
-<img src="https://github.com/KiruthigaRavi/TNSDC-Generative-AI/assets/104771518/5a4fcf76-ada3-48d3-8f4c-084277d6a4ca"  width="600" height="300" align="center">
+
+
 
 
