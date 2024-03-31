@@ -12,4 +12,4 @@ Subsequently, the data underwent splitting into training and testing sets, with 
 Visualization techniques, such as matplotlib, aided in providing a comprehensive overview of the data. 
 Lastly, in the detection model, we utilized CascadeClassifier and videocapture to detect faces with masks highlighted in green boxes and without masks in red.
 
-<a href="url"><img src="[http://url.to/image.png"](https://github.com/KiruthigaRavi/TNSDC-Generative-AI/assets/104771518/584c93a0-609e-4459-8f7c-e4e50c0541ad) align="left" height="48" width="48" ></a>
+
